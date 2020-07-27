@@ -1,0 +1,7 @@
+#include "gpm_control_file_io_sc.h"
+
+namespace Slb { namespace Exploration { namespace Gpm{namespace Plugins {namespace MainProcesses {
+
+const char* gpm_control_file_io_schema = R"(@GPM_CONTROL_FILE_IO_SCHEMA@)";
+
+}}}}}

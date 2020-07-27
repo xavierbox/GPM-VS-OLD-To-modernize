@@ -1,0 +1,11 @@
+Libray libgp
+
+Utilities for gpm.
+
+Conversions are in:
+  lit2pet.cxx (CMP and PER conversions)
+  makesdf.cxx (PER conversions)
+
+Writing in
+  gsDoc.cpp, call to wtglist (allows to select header format)
+

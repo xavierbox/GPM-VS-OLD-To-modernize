@@ -1,0 +1,7 @@
+#include "gpm_time_file_io_sc.h"
+
+namespace Slb { namespace Exploration { namespace Gpm{
+
+const char* gpm_time_file_io_schema = R"(@GPM_TIME_FILE_IO_SCHEMA@)";
+
+}}}

@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.1)
+
+add_subdirectory(plugin_handler)
+add_subdirectory(libutl)
+add_subdirectory(libgp)
+add_subdirectory(libacf)
+add_subdirectory(lib_adt)
+add_subdirectory(libfil)
+add_subdirectory(gpm_data_model)
+add_subdirectory(gpm_model_formats)
