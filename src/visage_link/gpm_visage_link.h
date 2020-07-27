@@ -30,7 +30,6 @@ namespace fs = std::experimental::filesystem;
 #include "EclipseReader.h"
 #include "utils.h"
 
-#include  "gpm_vs_initializers_base.h"
 
 
 using namespace std;
